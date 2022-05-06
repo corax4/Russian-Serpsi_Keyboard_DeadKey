@@ -15,7 +15,7 @@
 
 # Установка.
 
-Скачайте и распакуйте zip-архив ["ru_sr"](https://github.com/corax4/Russian-Serpsi_Keyboard_DeadKey/releases/download/v1.0.0/ru_sr_dk.zip). Запустите Setup.exe и следуйте инструкциям установщика. Перезагрузите Windows.
+Скачайте и распакуйте zip-архив ["ru_sr_dk"](https://github.com/corax4/Russian-Serpsi_Keyboard_DeadKey/releases/download/v1.0.0/ru_sr_dk.zip). Запустите Setup.exe и следуйте инструкциям установщика. Перезагрузите Windows.
 
 Теперь Вы можете выбрать установленную раскладку:
 
